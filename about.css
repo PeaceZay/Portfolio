@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/purple-space-background-milky-way-shines-on-the-whole-galaxy-picture-id1271529168?b=1&k=20&m=1271529168&s=170667a&w=0&h=U1k_d-INfwzWHDT5qrg7iOnE9TQMTYYOCugDWkAt8Og=);
+    color: white;
+    font-family: sans-serif;
+} 
+
+.navButton{
+    font-family: sans-serif;
+    text-decoration: none;
+    color:limegreen
+}
+header{
+    border: rgba(85, 95, 243, 0.836) groove 10px;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.innov{
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+
+p{
+    padding: 30px;
+    margin: auto;
+    width: 300px;
+}
+
+h2{
+    font-style: italic;
+}
+
+.picOne{
+   width: 500px;
+   height: 220px;
+}
+
+
+.perc{
+    display: flex ;
+    text-align: center;
+}
+
+.stim{
+    display: flex ;
+    text-align: center;
+}
+.picThree{
+    width: 400px;
+   height: 320px;
+}
+
+.about{
+    text-align: left;
+    font-size: 50px;
+    margin-left: 100px;
+}
+footer{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/176/88/992/space-earth-stars-space-art-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    border: rgba(85, 95, 243, 0.836) groove 10px;
+    padding: auto;
+}
+.pAbout{
+    display: flex;
+    margin-left: 50px;
+}
