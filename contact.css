@@ -1,4 +1,3 @@
-@media screen and (min-width: 990px) {
 .navButton{
     font-family: sans-serif;
    text-decoration: none;
@@ -91,6 +90,4 @@ textarea{
 .button:hover {
     background: #CF7A7A
 }
-}
-@media (min-width: 576px) {
-}
+
